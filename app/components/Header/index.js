@@ -83,7 +83,7 @@ class Header extends React.Component {
           yPos={0.5}
           wide={16}
           tall={6}
-          label="PAYOUT"
+          label="Pimmel"
           value={payout}
           xOffset={xOffset}
           yOffset={yOffset}
